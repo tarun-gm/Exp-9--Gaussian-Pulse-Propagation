@@ -14,6 +14,12 @@ If the optical source has a spectral width much greater than the signal bandwidt
 
 <img width="1482" height="1120" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
 
+## block diagram
+<img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/be1eb173-7f19-4ed6-ad3a-c0b2e4c1c9c2" />
+
+## model graph
+<img width="848" height="513" alt="image" src="https://github.com/user-attachments/assets/77ec9091-d8a2-4270-84ec-717afeebc9cb" />
+
 
 ---
 
